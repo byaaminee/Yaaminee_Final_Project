@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-19T14:10:56 EDT" name="Suite" finished-at="2024-07-19T14:11:57 EDT" duration-ms="61194">
+    <groups>
+    </groups>
+    <test started-at="2024-07-19T14:10:56 EDT" name="Test" finished-at="2024-07-19T14:11:57 EDT" duration-ms="61194">
+      <class name="com.QuebecBonds.FinalProject_Yaaminee.TestCases">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.QuebecBonds.FinalProject_Yaaminee.TestCases@5f683daf]" started-at="2024-07-19T14:10:56 EDT" name="beforeClass" finished-at="2024-07-19T14:10:58 EDT" duration-ms="2778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="changeLanguage()[pri:1, instance:com.QuebecBonds.FinalProject_Yaaminee.TestCases@5f683daf]" started-at="2024-07-19T14:10:58 EDT" name="changeLanguage" finished-at="2024-07-19T14:11:01 EDT" duration-ms="3020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeLanguage -->
+        <test-method signature="findBondTableRows()[pri:2, instance:com.QuebecBonds.FinalProject_Yaaminee.TestCases@5f683daf]" started-at="2024-07-19T14:11:01 EDT" name="findBondTableRows" finished-at="2024-07-19T14:11:56 EDT" duration-ms="54839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBondTableRows -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.QuebecBonds.FinalProject_Yaaminee.TestCases@5f683daf]" started-at="2024-07-19T14:11:56 EDT" name="afterClass" finished-at="2024-07-19T14:11:57 EDT" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.QuebecBonds.FinalProject_Yaaminee.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
